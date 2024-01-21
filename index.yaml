@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  tower-batch:
+  netfox:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-19T21:02:38.4586768-07:00"
+    created: "2024-01-20T22:22:49.7641872-06:00"
     description: A Helm chart for Kubernetes
-    digest: 60265cf2627e7772f10426d4f1431d782bb7590996aa8e02631da739699075e8
-    name: tower-batch
+    digest: 3299c41033b32170361e198d971cfd2a0f80d58ae7812279e71ee0a3dbde98dc
+    name: netfox
     type: application
     urls:
-    - tower-batch-0.1.0.tgz
+    - netfox-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-19T21:02:38.4550463-07:00"
+generated: "2024-01-20T22:22:49.7631856-06:00"
